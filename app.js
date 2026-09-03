@@ -5,8 +5,8 @@ console.log(
 
 // Exercise 1
 const firstName = "John";
-let lastName = "Doe";
-var age = 30;
+let lastName;
+var age;
 
 // Exercise 2
 firstName = "John";
